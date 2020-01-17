@@ -1,5 +1,5 @@
-# 私人影吧
+# 每日物流
 
-We are a platform dedicated to online booking of theaters, users can book a variety of theaters on our platform according to their preferences. Our platform cinemas are divided into “豪华影院” and “主题影院”. We guarantee a beautiful environment and a good service.
+我們這是一款專門幫助用戶更加方便、更加快捷的查詢快遞和寄快遞的工具。能夠幫助用戶實時查詢快遞的物流信息和掌握最新的快遞行業資訊，用戶用的放心也更加的省心。
 
-If you have any questions, please contact technical support: xiangyupao@foxmail.com, thank you for your support.
+如有任何問題請聯繫技術支持郵箱：chengaolujiu0274@163.com，非常感謝您的支持。
